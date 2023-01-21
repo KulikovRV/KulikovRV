@@ -1,6 +1,8 @@
 # Hi there :wave:
-I`m web-developer\
-How to contact me: just send email to rkulikov2013@gmail.com \
+I`m web-developer
+
+How to contact me: just send email to rkulikov2013@gmail.com 
+
 My education: Moscow power engineering institute
 
 # My tech stack :wave:
